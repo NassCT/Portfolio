@@ -61,7 +61,7 @@
         </div>
     </div>
 
-    <div class="projects" id="projects" style="display: flex; opacity: 1;">
+    <div class="projects" id="projects">
 
         <div class="project-wrapper" id="inkkubev0">
             <div class="projectscontent">
@@ -137,7 +137,7 @@
             </div>
         </div>
 
-        <div class="project-wrapper" id="sgrc" style="display: flex; opacity: 1;">
+        <div class="project-wrapper" id="sgrc">
             <div class="projectscontent">
                 <div style="margin-bottom: 1.25rem; justify-content: flex-end; ">
                     <a><i class='bx bxs-x-square' style='color:#1c1e53;font-size:xx-large;'></i>
@@ -196,12 +196,29 @@
                         <h1>Compétences mises en œuvre</h1>
                         <p>
 
+                            Développement web : Utilisation de langages comme PHP, HTML, CSS et JavaScript. <br>
+                            Gestion de projet : Utilisation de Trello pour répartir les tâches et suivre les
+                            progrès.<br>
+                            Méthodologie Agile : Application des principes agiles pour favoriser la flexibilité et la
+                            collaboration.<br>
+                            Base de données : Gestion et optimisation d'une base de données SQL (MySQL, MariaDB).<br>
+                            Interface utilisateur : Conception et amélioration des interfaces pour une meilleure
+                            expérience utilisateur.<br>
+                            Résolution de problèmes : Identification et résolution efficace des bugs et des problèmes
+                            techniques.<br>
+                            Collaboration et communication : Travail en équipe avec des collègues et communication
+                            efficace.<br>
+                            Adaptabilité : Capacité à s'adapter aux besoins changeants du projet.<br>
+
                         </p>
                         <h1>Production associée</h1>
                         <p>
                             Un version (démo) non à jour de <a href="SGRC" style="color: #1f7dcf;">SGRC</a> est
                             disponible en cliquant <a href="SGRC" style="color: #1f7dcf;">ici</a>.
                         </p>
+
+                        <img class="imgsit" src="assets/img/sgrc.png">
+
                     </div>
                 </div>
             </div>
@@ -295,6 +312,8 @@
                             </ul>
                         </ul>
                         </p>
+
+
                     </div>
                 </div>
             </div>
