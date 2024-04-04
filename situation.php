@@ -50,7 +50,8 @@
             <h5>Nassim Chantout</h5>
             <h3>Je suis <span id="typed" data-strings='["designer", "developer", "étudiant"]'></span></h3>
             <p>
-                Bienvenue sur mon portfolio de développement. Découvrez mes travaux et compétences dans le domaine.
+                Découvrez mon parcours professionnel, marqué par un développement continu en informatique à travers
+                divers projets, m'aidant à réussir grâce à mon adaptabilité et ma résolution efficace des défis.
             </p>
             <a href="#situation">
                 <button>En savoir plus </button>
@@ -75,7 +76,64 @@
                             de
                             l'entreprise, et permet aux visiteurs de contacter l'entreprise pour des demandes de devis
                             ou de
-                            renseignements.</p>
+                            renseignements.
+                        </p>
+                        <h1>Besoins</h1>
+                        <p>Le site devait refléter l'image de l'entreprise et mettre en avant ses compétences et ses
+                            réalisations. Il devait être à la fois informatif et attractif, offrant aux visiteurs une
+                            expérience utilisateur optimale. Les fonctionnalités de contact et de demande de devis
+                            devaient être claires et accessibles, permettant aux visiteurs de contacter l'entreprise.
+                        </p>
+                        <h1>Environnement</h1>
+                        <p>
+                            J'ai utilisé :
+
+                            Visual Studio Code avec LiveShare
+                            React avec TypeScript
+                            Node.js avec le framework Next.js
+                            MongoDB comme base de données
+                            Tailwind CSS pour le design
+                            Git pour le contrôle de version
+                        </p>
+                        <h1>Réalisation</h1>
+                        <p>
+
+                            Pour implémenter le mode sombre, nous avons commencé par rechercher les technologies
+                            disponibles, en nous appuyant sur Next.js et Tailwind CSS. Après avoir examiné plusieurs
+                            approches réalisables avec ces technologies, nous avons opté pour l'utilisation d'une
+                            gestion de thèmes via le fichier global.css et tailwind.config. Initialement, nous avons
+                            établi la logique de gestion des thèmes avec un bouton de bascule pour le mode sombre. Cela
+                            impliquait de stocker la préférence de thème dans le localStorage, de récupérer la variable
+                            de préférence par défaut, et de gérer les modifications grâce au hook useEffect. Ensuite,
+                            nous avons défini les variables pour les modes clair et sombre dans le fichier global.css,
+                            et avons configuré les premières variables qui changeront en fonction du mode dans le
+                            fichier tailwind.config.
+                        </p>
+                        <h1>Bilan</h1>
+                        <p>
+                            Le stage m'a offert une immersion pratique dans le développement web, en particulier avec
+                            Next.js et Tailwind CSS et React. J'ai acquis une expertise dans la gestion des thèmes,
+                            renforçant
+                            mes compétences en résolution de problèmes et en collaboration d'équipe.
+                        </p>
+
+                        <h1>Compétences mises en œuvre</h1>
+
+                        <p>
+                            Pendant ce stage, j'ai également eu l'opportunité de participer à la gestion de projet en
+                            utilisant des méthodes agiles. Cela incluait la planification des tâches, les réunions de
+                            suivi, et l'adaptation aux changements tout au long du processus de développement. Ce
+                            contexte m'a permis de développer ma capacité à travailler de manière itérative, à prioriser
+                            les tâches et à m'adapter aux besoins changeants du projet.
+                        </p>
+
+                        <h1>Production associée</h1>
+
+                        <p>
+                            Le site vitrine de l'entreprise Inkkube est actuellement en cours de développement. Une
+                            version de démonstration est disponible en cliquant <a href="https://inkkubev0.vercel.app/"
+                                style="color: #1f7dcf;">ici</a>.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -87,13 +145,9 @@
                     <a><i class='bx bxs-x-square' style='color:#1c1e53;font-size:xx-large;'></i>
                     </a>
                     <div>
-                        <h1>Contexte</h1>
-                        <p>Site vitrine de l'entreprise Inkkube, spécialisée dans la conception et la réalisation de
-                            projets. Réalisé en React, Vue.JS et PHP, le site présente les services et les réalisations
-                            de
-                            l'entreprise, et permet aux visiteurs de contacter l'entreprise pour des demandes de devis
-                            ou de
-                            renseignements.</p>
+
+
+
                     </div>
                 </div>
             </div>
@@ -106,12 +160,69 @@
                     </a>
                     <div>
                         <h1>Contexte</h1>
-                        <p>Site vitrine de l'entreprise Inkkube, spécialisée dans la conception et la réalisation de
-                            projets. Réalisé en React, Vue.JS et PHP, le site présente les services et les réalisations
-                            de
-                            l'entreprise, et permet aux visiteurs de contacter l'entreprise pour des demandes de devis
-                            ou de
-                            renseignements.</p>
+                        <p>
+                            Dans le cadre du projet réalisé en deuxième année de mon BTS SIO SLAM, j'ai développé
+                            l'application GSBVehicleHub pour répondre aux besoins spécifiques de gestion des prêts de
+                            véhicules au sein de l'entreprise pharmaceutique GSB. Cette application permet une gestion
+                            efficace des réservations de véhicules, des suivis des emprunts et offre la possibilité de
+                            consulter les disponibilités de véhicules, facilitant ainsi la logistique de déplacement du
+                            personnel de l'entreprise.
+                        </p>
+                        <h1>Besoins</h1>
+                        <p>
+                            Il était impératif de répondre aux besoins spécifiques de l'entreprise pharmaceutique GSB en
+                            matière de gestion des prêts de véhicules, de facilitation des réservations et de suivi des
+                            emprunts de manière efficace et sécurisée.
+                        </p>
+                        <h1>Environnement</h1>
+                        <p>
+                            Pour développer l'application GSBVehicleHub, j'ai utilisé un environnement technologique
+                            moderne comprenant Visual Studio 2022 comme environnement de développement intégré (IDE),
+                            .NET MAUI pour la création d'interfaces multiplateformes, une base de données gérée via
+                            phpMyAdmin pour stocker les données essentielles concernant les réservations de véhicules.
+                            De plus, j'ai utilisé PHP pour développer une API permettant de gérer les interactions entre
+                            l'application et la base de données, assurant ainsi un suivi précis des emprunts de
+                            véhicules.
+                        </p>
+                        <h1>Réalisation</h1>
+                        <p>
+                            Dans la réalisation de l'application GSBVehicleHub, j'ai débuté par l'installation de .NET
+                            MAUI ainsi que des packages NuGet nécessaires pour le développement. Ensuite, j'ai créé la
+                            base de données via phpMyAdmin et développé une API en utilisant PHP pour établir la liaison
+                            avec la base de données. Cette API permet la manipulation sécurisée des réservations de
+                            véhicules. Par la suite, j'ai implémenté les différentes fonctionnalités de l'application,
+                            telles que la gestion des réservations, le suivi des emprunts de véhicules et la
+                            consultation des disponibilités. Enfin, j'ai mis en place le routage entre les différentes
+                            pages de l'application pour assurer une expérience utilisateur fluide et intuitive.
+                        </p>
+                        <h1>Bilan</h1>
+                        <p>
+                            Ce projet m'a permis d'approfondir mes connaissances dans l'utilisation de technologies
+                            modernes telles que .NET MAUI pour le développement d'applications répondant aux besoins
+                            spécifiques de gestion des prêts de véhicules. J'ai également renforcé mes compétences en
+                            programmation, en conception d'interfaces utilisateur et en gestion de projet, tout en
+                            contribuant à améliorer la logistique de déplacement au sein de l'entreprise pharmaceutique
+                            GSB.
+                        </p>
+
+                        <h1>Compétences mises en œuvre</h1>
+
+                        <p>
+                            Ce projet m'a permis d'approfondir mes compétences en programmation, notamment en utilisant
+                            .NET MAUI pour le développement d'interfaces multiplateformes et en mettant en œuvre PHP
+                            pour la création d'une API de gestion des données. J'ai également renforcé ma compréhension
+                            de la gestion de bases de données avec phpMyAdmin, ainsi que ma capacité à concevoir des
+                            fonctionnalités efficaces répondant aux besoins spécifiques des utilisateurs. Enfin, j'ai
+                            amélioré mes compétences en matière de gestion de projet, en assurant le suivi du
+                            développement et en garantissant la qualité et la fluidité de l'expérience utilisateur à
+                            travers l'application.
+                        </p>
+
+                        <h1>Production associée</h1>
+
+                        <p>
+                            Aucune Production associée n'est disponible pour le moment.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -123,14 +234,7 @@
                     <a><i class='bx bxs-x-square' style='color:#1c1e53;font-size:xx-large;'></i>
                     </a>
                     <div>
-                        <h1>Contexte</h1>
-                        <p>Site vitrine de l'entreprise Inkkube, spécialisée dans la conception et la réalisation de
-                            projets. Réalisé en React, Vue.JS et PHP, le site présente les services et les réalisations
-                            de l'entreprise, et permet aux visiteurs de contacter l'entreprise pour des demandes de
-                            devis ou de renseignements.
-                        </p>
-                        <h1>Besoins</h1>
-
+                
 
                     </div>
                 </div>

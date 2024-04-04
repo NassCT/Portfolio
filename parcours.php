@@ -57,8 +57,8 @@
             <h3>Parcours scolaire</h3>
 
             <p>
-                Suivez mon parcours scolaire et mon évolution dans le domaine de l'informatique.
-            </p>
+                Découvrez mon parcours professionnel, marqué par un développement continu en informatique à travers
+                divers projets, m'aidant à réussir grâce à mon adaptabilité et ma résolution efficace des défis. </p>
             <a href="#exp">
                 <button>En savoir plus</button>
             </a>

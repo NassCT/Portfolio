@@ -94,7 +94,8 @@
                           <i class='bx bxs-phone' style='color:#5e3bee'></i></span> (+33) 764719858
                         </li>
                         <li>
-                          <i class='bx bx-mail-send' style='color:#5e3bee'></i></span> chantoutnassim@gmail.com
+                          <i class='bx bx-mail-send' style='color:#5e3bee'></i></span> <a
+                            href="mailto:chantoutnassim@gmail.com">chantoutnassim@gmail.com</a>
                         </li>
                       </ul>
                     </div>

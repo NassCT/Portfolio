@@ -79,6 +79,10 @@
                 Curieux et motivé, cherche à contribuer au monde de la technologie tout en continuant à apprendre et
                 évoluer.
             </p>
+            <a href="/tab_competences.pdf">
+                <button class="tabcomp">Voir le tableau des compétences</button>
+            </a>
+
         </div>
     </div>
 

@@ -50,7 +50,7 @@
         <div class="left">
             <h3>Veille technologique</h3>
             <p>
-                Restez informé sur les dernières avancées en matière de <b>robotisation et d'intelligence
+                Restez informé sur les dernières avancées en matière de <b>robotique et d'intelligence
                     artificielle</b>.
                 Découvrez les tendances technologiques émergentes. </p>
             <a href="#veille">
@@ -67,19 +67,27 @@
         <h3>Articles</h3>
         <div class="customers">
 
+            <h1>
+                Les progrès de l'IA et de la robotique ont t il changé le fonctionnement de l'industrie ?
+            </h1>
+
             <div class="item">
-                <img class="imgveille" src="assets/img/veille_.png">
+                <img class="imgveille" src="assets/img/soon.png">
                 <div class="catveillebox">
-                    <div class="catveille">Industrie</div>
+                    <div class="catveille">A venir</div>
                 </div>
                 <p class="imgtexte">
-                    "A venir"
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua. Velit egestas dui id ornare arcu odio ut. Aliquet porttitor lacus luctus
+                    accumsan tortor posuere ac. Vel pharetra vel turpis nunc eget. Faucibus in ornare quam viverra orci
+                    sagittis. Vitae justo eget magna fermentum iaculis eu non diam. Ante metus dictum at tempor commodo
+                    ullamcorper a. Facilisis sed odio morbi quis commodo odio."
                 </p>
                 <div class="user">
-                    <img src="assets/img/veille__l.png" style="padding: 5px;">
+                    <img src="assets/img/soon.png" style="padding: 5px;">
                     <div class="info">
                         <a href="">
-                            <h4> <i class='bx bx-globe' style='color:#5E3BEE'></i></h4>
+                            <h4>Lien.com <i class='bx bx-globe' style='color:#5E3BEE'></i></h4>
                             <h5></h5>
                         </a>
                     </div>
@@ -87,75 +95,22 @@
             </div>
 
             <div class="item">
-                <img class="imgveille" src="assets/img/veille_.png">
+                <img class="imgveille" src="assets/img/soon.png">
                 <div class="catveillebox">
-                    <div class="catveille">Industrie</div>
+                    <div class="catveille">A venir</div>
                 </div>
                 <p class="imgtexte">
-                    "A venir"
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua. Velit egestas dui id ornare arcu odio ut. Aliquet porttitor lacus luctus
+                    accumsan tortor posuere ac. Vel pharetra vel turpis nunc eget. Faucibus in ornare quam viverra orci
+                    sagittis. Vitae justo eget magna fermentum iaculis eu non diam. Ante metus dictum at tempor commodo
+                    ullamcorper a. Facilisis sed odio morbi quis commodo odio."
                 </p>
                 <div class="user">
-                    <img src="assets/img/veille__l.png" style="padding: 5px;">
+                    <img src="assets/img/soon.png" style="padding: 5px;">
                     <div class="info">
                         <a href="">
-                            <h4> <i class='bx bx-globe' style='color:#5E3BEE'></i></h4>
-                            <h5></h5>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <img class="imgveille" src="assets/img/veille_.png">
-                <div class="catveillebox">
-                    <div class="catveille">Industrie</div>
-                </div>
-                <p class="imgtexte">
-                    "A venir"
-                </p>
-                <div class="user">
-                    <img src="assets/img/veille__l.png" style="padding: 5px;">
-                    <div class="info">
-                        <a href="">
-                            <h4> <i class='bx bx-globe' style='color:#5E3BEE'></i></h4>
-                            <h5></h5>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <img class="imgveille" src="assets/img/veille_.png">
-                <div class="catveillebox">
-                    <div class="catveille">Industrie</div>
-                </div>
-                <p class="imgtexte">
-                    "A venir"
-                </p>
-                <div class="user">
-                    <img src="assets/img/veille__l.png" style="padding: 5px;">
-                    <div class="info">
-                        <a href="">
-                            <h4> <i class='bx bx-globe' style='color:#5E3BEE'></i></h4>
-                            <h5></h5>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <img class="imgveille" src="assets/img/veille_.png">
-                <div class="catveillebox">
-                    <div class="catveille">Industrie</div>
-                </div>
-                <p class="imgtexte">
-                    "A venir"
-                </p>
-                <div class="user">
-                    <img src="assets/img/veille__l.png" style="padding: 5px;">
-                    <div class="info">
-                        <a href="">
-                            <h4> <i class='bx bx-globe' style='color:#5E3BEE'></i></h4>
+                            <h4>Lien.com <i class='bx bx-globe' style='color:#5E3BEE'></i></h4>
                             <h5></h5>
                         </a>
                     </div>
