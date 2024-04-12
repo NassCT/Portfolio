@@ -162,21 +162,21 @@
                         <h1>Contexte</h1>
                         <p>
                             Dans le cadre du projet réalisé en deuxième année de mon BTS SIO SLAM, j'ai développé
-                            l'application GSBVehicleHub pour répondre aux besoins spécifiques de gestion des prêts de
-                            véhicules au sein de l'entreprise pharmaceutique GSB. Cette application permet une gestion
+                            l'application mobile GPV pour répondre aux besoins spécifiques de gestion des prêts de
+                            véhicules au sein de l'entreprise fictive pharmaceutique GSB. Cette application permet une gestion
                             efficace des réservations de véhicules, des suivis des emprunts et offre la possibilité de
                             consulter les disponibilités de véhicules, facilitant ainsi la logistique de déplacement du
                             personnel de l'entreprise.
                         </p>
                         <h1>Besoins</h1>
                         <p>
-                            Il était impératif de répondre aux besoins spécifiques de l'entreprise pharmaceutique GSB en
+                            Il était nécessaires de répondre aux besoins spécifiques de l'entreprise pharmaceutique GSB en
                             matière de gestion des prêts de véhicules, de facilitation des réservations et de suivi des
                             emprunts de manière efficace et sécurisée.
                         </p>
                         <h1>Environnement</h1>
                         <p>
-                            Pour développer l'application GSBVehicleHub, j'ai utilisé un environnement technologique
+                            Pour développer l'application GPV, j'ai utilisé un environnement technologique
                             moderne comprenant Visual Studio 2022 comme environnement de développement intégré (IDE),
                             .NET MAUI pour la création d'interfaces multiplateformes, une base de données gérée via
                             phpMyAdmin pour stocker les données essentielles concernant les réservations de véhicules.
@@ -186,7 +186,7 @@
                         </p>
                         <h1>Réalisation</h1>
                         <p>
-                            Dans la réalisation de l'application GSBVehicleHub, j'ai débuté par l'installation de .NET
+                            Dans la réalisation de l'application GPV, j'ai débuté par l'installation de .NET
                             MAUI ainsi que des packages NuGet nécessaires pour le développement. Ensuite, j'ai créé la
                             base de données via phpMyAdmin et développé une API en utilisant PHP pour établir la liaison
                             avec la base de données. Cette API permet la manipulation sécurisée des réservations de
@@ -219,7 +219,6 @@
                         </p>
 
                         <h1>Production associée</h1>
-
                         <p>
                             Aucune Production associée n'est disponible pour le moment.
                         </p>
@@ -234,8 +233,6 @@
                     <a><i class='bx bxs-x-square' style='color:#1c1e53;font-size:xx-large;'></i>
                     </a>
                     <div>
-                
-
                     </div>
                 </div>
             </div>
@@ -393,7 +390,7 @@
                             renforçant ma capacité à planifier et exécuter des tâches de manière efficace.</p>
 
                         <h1>Production associée</h1>
-                        <p><a href="https://github.com/nassimchantout/projet-glpi">Note de projet GLPI <i
+                        <p><a href="/Notice-GLPI.pdf">Notice GLPI<i
                                     class='bx bx-globe' style='color:#5400ff'></i></a></p>
 
                         <h1>Compétences mises en œuvre</h1>
@@ -530,7 +527,7 @@
             <div class="item">
                 <img class="imgveille" src="assets/img/maui.png">
                 <div class="catveillebox">
-                    <div class="catveille sit">.Net MAUI</div>
+                    <div class="catveille sit">GPV</div>
                 </div>
                 <p class="imgtexte">
                     L'application mobile développée en C# .NET MAUI permet à une entreprise pharmaceutique d'attribuer

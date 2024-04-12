@@ -72,16 +72,21 @@
             <h3> À propos de moi </h3>
             <p>
 
-                Nassim Chantout, 19 ans, étudiant en BTS SIO option SLAM à Lyon, passionné de développement logiciel et
+                Nassim Chantout, 20 ans, étudiant en BTS SIO option SLAM à Lyon, passionné de développement logiciel et
                 technologies de l'information. Titulaire d'un bac pro en Systèmes Numériques.
             </p>
             <p>
                 Curieux et motivé, cherche à contribuer au monde de la technologie tout en continuant à apprendre et
                 évoluer.
             </p>
+            <a href="/cv.pdf">
+                <button class="tabcomp">Voir le CV</button>
+            </a>    
             <a href="/tab_competences.pdf">
                 <button class="tabcomp">Voir le tableau des compétences</button>
             </a>
+
+
 
         </div>
     </div>
